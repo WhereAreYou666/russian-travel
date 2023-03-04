@@ -1,0 +1,18 @@
+.footer__copyright {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: right;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer__copyright:hover {
+    opacity: 0.6;
+    transition: opacity 1s ease-in-out;
+}
