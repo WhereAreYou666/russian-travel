@@ -19,7 +19,7 @@
 
 **GitHub Pages**
 
-* [Ссылка на проект в GitHub Pages]()
+* [Ссылка на проект в GitHub Pages](https://whereareyou666.github.io/russian-travel/)
 
 **Figma**
 
